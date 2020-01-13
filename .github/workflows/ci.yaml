@@ -8,5 +8,5 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: build
-      run: make macOS
+      run: make
         
